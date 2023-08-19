@@ -1,0 +1,9 @@
+.post-list-item > hr{
+  margin: 15px 0;
+}
+.post-list-item > #post-row {
+  display:flex;
+  width:'100%';
+   justify-content: space-between;
+   gap:50px
+}
